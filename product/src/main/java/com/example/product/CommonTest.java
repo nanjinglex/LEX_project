@@ -12,6 +12,7 @@ import org.example.common.constants.AlarmConstant;
 public class CommonTest {
     public static void main(String[] args) {
         CommonTest.test();
+        System.out.println("testdev");
     }
 
     public static void test() {
