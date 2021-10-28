@@ -14,6 +14,9 @@ public class CommonTest {
         CommonTest.test();
     }
 
+
+
+    
     public static void test() {
         System.out.println(AlarmConstant.ALARM_KEY_JOB_ERROR);
     }
